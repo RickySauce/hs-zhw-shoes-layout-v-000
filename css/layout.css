@@ -30,7 +30,7 @@
 }
 
 .col-2 {
-  margin: 2% 2% 0 0;
+  margin: 2% 2% 2% 0;
   width: 64.666%;
   float: left;
 }
@@ -39,12 +39,4 @@
   margin: 2% 2% 0 0;
   float: left;
   width: 31.333%;
-}
-
-.col-4 {
-  margin: 2% 2% 0 0;
-  float: left;
-  width: 31.333%;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
 }
